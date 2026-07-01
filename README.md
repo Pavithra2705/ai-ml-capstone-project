@@ -1,4 +1,4 @@
-# 🚴 README — Part 1
+#  README — Part 1
 
 # **Project Title**
 
